@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.tomyrodry.iamofage"
     },
     "web": {
       "favicon": "./assets/icon.png"
